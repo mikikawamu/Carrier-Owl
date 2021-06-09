@@ -1,11 +1,12 @@
 # arxivの学問領域の指定
-subject: 'cat:cs.*'
+subject: 'cat:astro-ph.*'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        pulsating aurora: 2
+        microburst: 2
+        high energy : 2
+        diffuse aurora: 2
 
 # 通知の閾値
-score_threshold: 0
+score_threshold: 4
