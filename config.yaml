@@ -3,10 +3,12 @@ subject: 'cat:astro-ph.*'
 
 # 検索キーワード
 keywords:
+        aurora: 1
         pulsating aurora: 2
         microburst: 2
         high energy : 2
         diffuse aurora: 2
+        chorus: 1
 
 # 通知の閾値
-score_threshold: 4
+score_threshold: 3
